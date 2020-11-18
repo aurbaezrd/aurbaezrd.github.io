@@ -1,0 +1,16 @@
+
+/**Reset the body and other elements **/
+*
+{
+    margin : 0;
+    padding : 0;
+}
+
+header 
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)),url(img/coming-soon.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    
+}
